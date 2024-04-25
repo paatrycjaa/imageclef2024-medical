@@ -5,14 +5,19 @@ import os
 from PIL import Image
 from torch.utils.data import Dataset
 
+
 class MAGICDataset(Dataset):
     """_summary_
 
     :param _type_ Dataset: MAGICDataset for ImageCLEF 2024 challenge
     """
-    def __init__(self, split="train"):
-        self.json_file = "data/" + split + "_downloaded.json"
-        self.folder_path = "data/" + split
+    def __init__(self, file_path:str="data/", split:str="train"):
+        """
+        :param split: which dataset should be chosen
+        :param file_path: main path with data
+        """
+        self.json_file = file_path + split + "_downloaded.json"
+        self.folder_path = file_path + split
         self.data = self._get_preprocessed_data()
 
     def _get_preprocessed_data(self):
@@ -31,7 +36,8 @@ class MAGICDataset(Dataset):
             temp_data.append({
                 "image" : image_path,
                 "description" : sample["query_title_en"],
-                "answer" : sample["responses"][0]["content_en"]
+                "answer" : sample["responses"][0]["content_en"],
+                "encounter_id" : sample["encounter_id"]
             })
         return temp_data
 
@@ -52,12 +58,13 @@ class MAGICDataset(Dataset):
                     "question": prompt,
                     "answer": sample["answer"],
                 }
-            ],
+            ], ## Why array?
+            "encounter_id": sample['encounter_id']
         }
 
 if __name__ == "__main__" :
 
-    dataset = MAGICDataset("train")
+    dataset = MAGICDataset(split="train")
 
     for sample in dataset:
         print(sample)
