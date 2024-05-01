@@ -17,7 +17,7 @@ class MAGICDataset(Dataset):
         :param file_path: main path with data
         """
         self.json_file = file_path + split + "_downloaded.json"
-        self.folder_path = file_path + split
+        self.folder_path = file_path + "images/" + split
         self.data = self._get_preprocessed_data()
 
     def _get_preprocessed_data(self):
