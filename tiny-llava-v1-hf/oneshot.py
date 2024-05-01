@@ -3,7 +3,7 @@ from PIL import Image
 
 import requests
 import torch
-from finetune.dataset import MAGICDataset
+from data.dataset import MAGICDataset
 from transformers import AutoProcessor, LlavaForConditionalGeneration
 from transformers import AutoTokenizer, BitsAndBytesConfig, AutoModelForCausalLM
 #from llava.model import LlavaLlamaForCausalLM
