@@ -28,9 +28,10 @@ class MAGICDataset(Dataset):
                 if not os.path.exists(image_path):
                     logging.warning(f"Couldn't find path {image_path}")
                     continue
+            query_content_en = '' if sample["query_conent_en"] in ["[removed]", "[deleted]"] else sample["query_conent_en"]
             temp_data.append({
                 "image" : image_path,
-                "description" : sample["query_title_en"],
+                "description" : sample["query_title_en"] + ';' + query_content_en,
                 "answer" : sample["responses"][0]["content_en"]
             })
         return temp_data
@@ -40,13 +41,18 @@ class MAGICDataset(Dataset):
 
     def __getitem__(self, idx):
         sample = self.data[idx]
+        # prompt = (
+        #     "This is additional information about the dermatology issue on the image:"
+        #     + sample["description"]
+        #     + "What dermatological disease is on the image and how can it be treated?"
+        # )
         prompt = (
-            "This is additional information about the dermatology issue on the image:"
-            + sample["description"]
-            + "What dermatological disease is on the image and how can it be treated?"
+            "Patient wants to find out what dermatological disease he suffers from. Considering patient additional description:"
+            + sample["description"] +
+            "Answer two questions: 1. What dermatological disease is on the image? 2. How can it be treated?"
         )
         return {
-            "image": Image.open(sample["image"]),  # Should be a PIL image
+            "image": Image.open(sample["image"]).convert('RGB'),  # Should be a PIL image
             "qa": [
                 {
                     "question": prompt,
