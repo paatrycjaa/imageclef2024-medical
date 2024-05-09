@@ -56,16 +56,16 @@ class MAGICDataset(Dataset):
 
     def __getitem__(self, idx):
         sample = self.data[idx]
-        # prompt = (
-        #     "This is additional information about the dermatology issue on the image:"
-        #     + sample["description"]
-        #     + "What dermatological disease is on the image and how can it be treated?"
-        # )
         prompt = (
-            "Patient wants to find out what dermatological disease he suffers from. Considering patient additional description:"
-            + sample["description"] +
-            "Answer two questions: 1. What dermatological disease is on the image? 2. How can it be treated?"
+            "This is additional information about the dermatology issue on the image: "
+            + sample["description"]
+            + " What dermatological disease is on the image and how can it be treated?"
         )
+        # prompt = (
+        #     "Patient wants to find out what dermatological disease he suffers from. Considering patient additional description: "
+        #     + sample["description"] +
+        #     " Answer two questions: 1. What dermatological disease is on the image? 2. How can it be treated?"
+        # )
         return {
             "image": Image.open(sample["image"]),  # Should be a PIL image
             "qa": [
