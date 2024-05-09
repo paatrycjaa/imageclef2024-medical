@@ -45,7 +45,7 @@ class MAGICDataset(Dataset):
                 {
                     "image": image_path,
                     "description": sample["query_title_en"] + ";" + query_content_en,
-                    "answer": sample["responses"][0]["content_en"],
+                    # "answer": sample["responses"][0]["content_en"], # COMMENTED ONLY FOR TEST SET
                     "encounter_id": sample["encounter_id"],
                 }
             )
@@ -71,7 +71,7 @@ class MAGICDataset(Dataset):
             "qa": [
                 {
                     "question": prompt,
-                    "answer": sample["answer"],
+                    # "answer": sample["answer"],  # COMMENTED ONLY FOR TEST SET
                 }
             ],  ## Why array?
             "encounter_id": sample["encounter_id"],
