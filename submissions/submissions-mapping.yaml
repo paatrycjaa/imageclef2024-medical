@@ -8,3 +8,4 @@ test:
   test-3: moondream2\predictions\model_4\test\2024-05-09\prediction.json
   test-4: moondream2\predictions\model_5\test\2024-05-09\prediction.json
   test-5: tiny-llava-v1-hf\predictions\test\2024-05-09\prediction.json
+  test-6: moondream2\predictions\model_1\test\2024-05-10\prediction.json
