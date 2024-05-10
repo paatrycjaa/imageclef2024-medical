@@ -6,8 +6,13 @@ from bitsandbytes.optim import Adam8bit
 import math
 from einops import rearrange
 from tqdm import tqdm
+from dataset import MAGICDataset
 
-DEVICE = "cuda"
+
+# from flash_attn import flash_attn_func, flash_attn_varlen_func
+# from flash_attn.bert_padding import index_first_axis, pad_input, unpad_input
+
+DEVICE = "cpu"
 DTYPE = torch.float32 if DEVICE == "cpu" else torch.float16 # CPU doesn't support float16
 MD_REVISION = "2024-04-02"
 
@@ -21,7 +26,7 @@ class Finetune():
         self.tokenizer = AutoTokenizer.from_pretrained("vikhyatk/moondream2", revision=MD_REVISION)
         self.model = AutoModelForCausalLM.from_pretrained(
                 "vikhyatk/moondream2", revision=MD_REVISION, trust_remote_code=True,
-                attn_implementation="flash_attention_2" if DEVICE == "cuda" else None,
+                #attn_implementation="flash_attention_2" if DEVICE == "cuda" else None,
                 torch_dtype=DTYPE, device_map={"": DEVICE}
             )
         self.train_dataset = train_dataset
@@ -32,6 +37,7 @@ class Finetune():
 
     def _collate_fn(self, batch):
         images = [sample['image'] for sample in batch]
+        print(images)
         images = torch.stack(self.model.vision_encoder.preprocess(images))
         images = rearrange(images,
                         "b c (h p1) (w p2) -> b (h w) (c p1 p2)",
@@ -174,3 +180,19 @@ class Finetune():
         # if USE_WANDB:
         #     wandb.finish()
         self.model.save_pretrained("checkpoints/moondream-ft")
+
+
+
+if __name__ == "__main__" :
+
+    parmas = {
+        'grad_accum_steps' : 1,
+        'batch_size' : 8,
+        'epochs' : 2,
+        'learning_rate' : 3e-5
+    }
+
+    finetune = Finetune(train_dataset=MAGICDataset('train'), valid_dataset=MAGICDataset('valid'), params= parmas)
+    finetune.run()
+
+
