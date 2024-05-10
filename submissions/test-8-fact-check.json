@@ -1,0 +1,12 @@
+{
+    "RUN_ID": "8",
+    "FINE_TUNED": false,
+    "MODELS_EXACT": "moondream2",
+    "GITHUB_REPO_URL": "https://github.com/paatrycjaa/imageclef2024-medical",
+    "GITHUB_REPO_SHARED": false,
+    "SUBMISSION_COMMENT": "Direct prompting on moondream2 - Second prompt",
+    "LLM_MODELFAMILY_USED": "not_applicable",
+    "VISION_MODELFAMILY_USED": "not_applicable",
+    "METHOD_OVERALL_DESCRIPTION": "Direct prompting on moondream2 (revision=\"2024-04-02\" ) with second prompt.",
+    "VISIONLANGUAGE_MODELFAMILY_USED": "other"
+}

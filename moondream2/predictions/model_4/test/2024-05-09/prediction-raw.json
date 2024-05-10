@@ -1,0 +1,602 @@
+[
+    {
+        "encounter_id": "11sutwk",
+        "responses": [
+            {
+                "content_en": "This is eczema. Avoid contact with any irritant and use mild soap. Apply moisturizer. I am adding a cream for same to be applied twice daily for 2 weeks."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11f9aib",
+        "responses": [
+            {
+                "content_en": "It is a case of sebaceous cyst which is a type of cyst due to excess sebaceous glands. Sebaceous cysts are non-cancerous and usually require no treatment. However, if they are painful or embarrassing, they may be surgically removed. Seborrheic cysts can also be associated with seborrheic dermatitis, a skin condition that causes flaky and itchy skin. The flaky skin is due to sebaceous material getting trapped on the skin's surface. Seborrheic dermatitis is often treated with topical selenium sulfide shampoo, selenium sulfide pads, and topical selenium sulfide creams."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11ayf7e",
+        "responses": [
+            {
+                "content_en": "This looks like a mole only. It does not look like pre-existing cancerous cells. You just need to keep observing it."
+            }
+        ]
+    },
+    {
+        "encounter_id": "127bte9",
+        "responses": [
+            {
+                "content_en": "There are few possibilities. The veins are very deep so they have to be collapsed and then refilled with blood. This can be done with minimally invasive procedures. You can also consider vein ablation where the blood vessels are destroyed."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11urq4h",
+        "responses": [
+            {
+                "content_en": "It is a case of eczema due to dry skin (xerosis). Dryness is commonly seen in people with atopic dermatitis. People exposed to a dry environment may experience dry skin, for example low humidity in desert climates or cool windy conditions, excessive air conditioning, direct heat from a fire or fan heater, excessive bathing, contact with soap, laundry detergents and solvents, inappropriate topical agents such as alcohol, frictional irritation from rough clothing or abrasives. Try to eliminate aggravating factors. Reduce the frequency of bathing,  use a humidifier in winter and air conditioner in summer, compare having a short shower with a prolonged soak in a hot bath, ensure good hydration by drinking plenty of water, use lukewarm water not hot water, replace standard soap with a substitute such as a synthetic detergent cleanser, water-miscible emollient, bath oil, anti-pruritic tar oil, colloidal oatmeal etc., and apply an emollient liberally and often, particularly shortly after bathing, and when itchy. The drier the skin, the thicker this should be, especially on the hands. Apply emollients frequently and avoid irritants. Use topical steroid cream twice daily for 2-4 weeks and oral antihistamines if needed."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11oqm0j",
+        "responses": [
+            {
+                "content_en": "This looks like a cyst under the skin. It should be excised and sent for examination. If it is cystic in nature then it should be excised and sent for histopathology to confirm."
+            }
+        ]
+    },
+    {
+        "encounter_id": "126azy5",
+        "responses": [
+            {
+                "content_en": "These look like they could be a form of nevus or mole. If they're new, changing, or growing then you should consider seeing your doctor to make sure they're not a skin cancer because they're so deep in. If they are a skin cancer, then they need to be removed because they're so deep in. If they're not a skin cancer and they're still changing then you should consider seeing your doctor to have them evaluated in person."
+            }
+        ]
+    },
+    {
+        "encounter_id": "xfng5h",
+        "responses": [
+            {
+                "content_en": "This looks like seborrheic dermatitis only. It is a common condition that affects the skin around the nose. It is triggered by things like soap, shampoo, and lotion. You can get it if you have dry skin or if you use too much product on your skin. The good news is that seborrheic dermatitis is easy to treat and easy to treat once you figure out what causes it. The treatment for seborrheic dermatitis usually involves using gentle or sensitive skin moisturizers throughout the day when you have dry skin. You can also use topical medications like topical corticosteroid cream, which reduces inflammation and relieves itching. Topical steroid cream should be applied for 2 to 4 weeks. Other medications that can be used to treat seborrheic dermatitis include topical antifungal cream, topical antibiotic cream, and systemic medications like antihistamines, corticosteroids, and immunosuppressives."
+            }
+        ]
+    },
+    {
+        "encounter_id": "10d8a67",
+        "responses": [
+            {
+                "content_en": "It is a case of trauma or friction nail syndrome. This is a common condition that happens when nails are broken or weakened and then trauma occurs. Examples of trauma include stubbing a toe, getting a nail cut or pushed back too far, and using tools like knives or hammers. You can treat trauma nail syndrome with moisturization, physical therapy, and medications to reduce pain."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11xqiex",
+        "responses": [
+            {
+                "content_en": "It is a case of eczema due to dry skin (xerosis). Dryness is commonly seen in people with atopic dermatitis. People exposed to a dry environment may experience dry skin, for example low humidity in desert climates or cool windy conditions, excessive air conditioning, direct heat from a fire or fan heater, excessive bathing, contact with soap, laundry detergents and solvents, inappropriate topical agents such as alcohol, frictional irritation from rough clothing or abrasives. Try to eliminate aggravating factors. Reduce the frequency of bathing,  use a humidifier in winter and air conditioner in summer, compare having a short shower with a prolonged soak in a hot bath, ensure good hydration by drinking plenty of water, use lukewarm water not hot water, replace standard soap with a substitute such as a synthetic detergent cleanser, water-miscible emollient, bath oil, anti-pruritic tar oil, colloidal oatmeal etc., and apply an emollient liberally and often, particularly shortly after bathing, and when itchy. The drier the skin, the thicker this should be, especially on the hands. Apply emollients frequently and avoid irritants. Use topical steroid cream twice daily for 2-4 weeks and oral antihistamines if needed."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11gwgtv",
+        "responses": [
+            {
+                "content_en": "This is a fungal infection. I have added a topical antifungal to be applied twice daily for 2 weeks. You can take an antihistamine if required. Keep your feet dry. Wear socks and shoes."
+            }
+        ]
+    },
+    {
+        "encounter_id": "121kpty",
+        "responses": [
+            {
+                "content_en": "This is a case of tinea pedis which is a fungal infection of the feet. The feet have become very sweaty which has created an ideal environment for the fungus to grow. You can be given an antifungal cream to apply once daily for 2 weeks. You can also take an antihistamine to help with the itching if needed. Keep your feet as dry as possible. Wear socks and shoes made from breathable materials."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11eift5",
+        "responses": [
+            {
+                "content_en": "I need to know whether you have had a rash there before, if you have used steroids or medications to reduce inflammation, if you have been injured in that area, if you have been on blood thinners, if you have a history of diabetes, if you have a new or worsening rash elsewhere, and if the rash is itchy. Based on the appearance and your medical history, it looks like a vasculitis, a blood vessel inflammation. You should be seen in person for additional history and evaluation."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11pu3aj",
+        "responses": [
+            {
+                "content_en": "This looks like a cyst under the skin. It should be excised and sent for examination to confirm the diagnosis. If it is a cyst, it can be drained and sent for histopathology to identify the type. If it is not a cyst, you may require an injection of a steroid to help it heal."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11j42mk",
+        "responses": [
+            {
+                "content_en": "This is a case of insect bite reaction. It is a self limiting immunological reaction to the bites of mosquitoes, fleas, bedbugs, and other insects. The spots remain for days to weeks and can leave postinflammatory pigmentation. Fleas and mites that live on cats and dogs are most often responsible. Wear protective clothing and apply insect repellents to exposed skin to prevent insect bites when outdoors. Insecticides can be used to rid the house. Seek veterinary advice regarding infested animal. Apply topical corticosteroid cream, calamine or menthol lotions and creams and oral antihistamines are used in severe itching."
+            }
+        ]
+    },
+    {
+        "encounter_id": "1236kxw",
+        "responses": [
+            {
+                "content_en": "You have a cyst under your skin. It is painful. It can be due to hair curling back into the skin. You can get it removed."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11g3sh5",
+        "responses": [
+            {
+                "content_en": "This is likely eczema based on appearance and location. I am adding a cream to be applied twice daily for 2 weeks. You can take an antihistamine if required. Avoid hand sanitizer and scented products."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11yz9sx",
+        "responses": [
+            {
+                "content_en": "This is a case of deep skin trauma due to a dog bite. The best way to avoid a scar is to prevent a dog bite in the first place. Here are some tips to help avoid dog bites:\n- Always be aware of your surroundings when you are with a dog.\n- Never approach a dog that is eating, drinking, or playing.\n- Teach your dog to give you a signal before they start to bite, such as pawing at the air or touching the object you want them to bite.\n- If your dog tends to bite, consider having them professionally fitted with a muzzle. This is a simple plastic device that covers the dog's mouth, preventing them from biting. Masks are also available for dogs.\n- If your dog does bite, seek veterinary advice on how to treat the wound and consider having the wound inspected by a dermatologist to remove any chance of infection."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11pyur2",
+        "responses": [
+            {
+                "content_en": "I need to know whether there is any history of trauma or any irritant application. It looks like the nail is separating from the nail bed. I have added a lotion to be applied twice daily for 3 weeks. Keep your fingers open only."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11lyc0o",
+        "responses": [
+            {
+                "content_en": "It is a case of angiofibroma, benign vascular neoplasm composed of dermal fibrous tissue and blood vessels. Angiofibromas are benign (non-cancerous) and usually require no treatment. However, if they bleed excessively or repeatedly, then a medical evaluation is required to rule out a more dangerous underlying condition. Angiofibromas are commonly found on sun-damaged noses."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11mzd5z",
+        "responses": [
+            {
+                "content_en": "This is a case of ingrown toenail. You can get infected ingrown toenail if you trim the nail too short or curve the nail back into the skin in a way that it presses against the skin of your toe. This can happen if you clip your nails too short or you curve your nail back too far. You are at higher risk of ingrown toenails if you wear tight-fitting shoes or if you have diabetes. To prevent ingrown toenails, you can trim your nails straight across (so they are not too long or too short) and then let your nails grow out without cutting them. When you do cut your nails, make sure you cut them straight across and then clean the area around the nail bed to prevent infection. After you cut your nails, soak them in warm, shallow water. This will soften the skin around the nail and help prevent ingrown nails. You can also apply a topical antibiotic to the area and then cover the nail with a bandage. If you have diabetes, you should see your doctor about how to treat your ingrown nails because if left untreated, an ingrown nail can lead to infection of the nail bed and, in severe cases, infection of the surrounding tissues. In some cases, the nail may need to be removed."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11okwz2",
+        "responses": [
+            {
+                "content_en": "This looks like it could be a spider angioma, which are normal blood vessels that develop in the skin. They are usually found on the arms, legs, and face. If you want to treat them, you could use a topical steroid to reduce inflammation and discoloration."
+            }
+        ]
+    },
+    {
+        "encounter_id": "wo02wn",
+        "responses": [
+            {
+                "content_en": "It is a case of eczema due to dry skin (xerosis). Dryness is commonly seen in people with atopic dermatitis. People exposed to a dry environment may experience dry skin, for example, low humidity in desert climates or cool windy conditions, excessive air conditioning, direct heat from a fire or fan heater, excessive bathing, contact with soap, laundry detergents and solvents, inappropriate topical agents such as alcohol, frictional irritation from rough clothing or abrasives. Try to eliminate aggravating factors. Reduce the frequency of bathing,  use a humidifier in winter and air conditioner in summer, compare having a short shower with a prolonged soak in a hot bath, ensure good hydration by drinking plenty of water, use lukewarm water not hot water, replace standard soap with a substitute such as a synthetic detergent cleanser, water-miscible emollient, bath oil, anti-pruritic tar oil, colloidal oatmeal etc., and apply an emollient liberally and often, particularly shortly after bathing, and when itchy. The drier the skin, the thicker this should be, especially on the hands. Apply emollients frequently and avoid irritants. Use topical steroid cream twice daily for 2-4 weeks and oral antihistamines if needed."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11rm7jz",
+        "responses": [
+            {
+                "content_en": "You need to see a dermatologist for dermoscopic examination of this lesion and skin biopsy if needed. The dermoscopic examination is a useful adjunct for pigmented lesions to help identify worrisome pigment patterns. Regular self-examinations of your skin will help you detect a difference in a mole over time. An easy way to remember how to check your skin is to use the ABCDE technique to identify changes.\nAsymmetry - Each half of the mole is a different shape\nBorder - Look for spreading or irregular edges\nColour - A recent change or blotchy spots with many colours\nDiameter - spots are getting bigger \nEvolving - Changing or growing in size, shape or thickness. If you noticed any change consulting your dermatologist is recommended."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11tp29b",
+        "responses": [
+            {
+                "content_en": "This is a case of folliculitis, which is inflammation of the hair follicles. It can be caused by folliculitis of the hair follicles, which is often associated with ingrown hairs, or by an infection in the follicle, such as a bacterial or yeast infection. The treatment of ingrown hairs depends on the cause. If it is an ingrown hair, the hair should be trimmed so that it is not growing up into the skin. If it is a bacterial or yeast infection, the infection should be treated with an antibiotic and a topical antifungal. If it is a folliculitis of the hair follicles, the treatment of choice is laser therapy."
+            }
+        ]
+    },
+    {
+        "encounter_id": "qzqze0",
+        "responses": [
+            {
+                "content_en": "This is most likely an eczema-type of process called nummular eczema. It will require regular moisturization and a topical steroid to get better. If it is not getting better or you have other lesions you may consider seeing your doctor for an in-person evaluation."
+            }
+        ]
+    },
+    {
+        "encounter_id": "nil9ll",
+        "responses": [
+            {
+                "content_en": "I need to know whether this area is painful, if it is growing, changing, or bleeding. As of now, it does not look like melanoma, but I would need additional history to know if there was a mole there before and if it was ever considered melanoma. If it is melanoma, it would need to be removed immediately."
+            }
+        ]
+    },
+    {
+        "encounter_id": "10u24pd",
+        "responses": [
+            {
+                "content_en": "You have nodular acne over your jawline. This is cystic acne. It is a type of acne that forms in the pores of your skin. It is caused by clogged pores, excess oil, and dead skin cells. You can treat nodular acne with over-the-counter topical treatments like benzoyl peroxide and salicylic acid, as well as oral antibiotics. If you have nodular acne that is painful or persistent, you should see a dermatologist. They may prescribe oral antibiotics or a topical steroid cream to help."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11jlrh6",
+        "responses": [
+            {
+                "content_en": "This is sebaceous material. You can get it removed by shaving or by using laser."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11wiblb",
+        "responses": [
+            {
+                "content_en": "Most probably it is a case of hormonal acne. Acne is largely a hormonal condition that\u00e2\u20ac\u2122s driven by androgen hormones (testosterone). This typically becomes active during teenage and young adult years. Mild acne can be treated with over-the-counter (OTC) medications, such as gels, soaps, pads, creams, and lotions, that are applied to the skin. Creams and lotions are best for sensitive skin. Alcohol-based gels dry the skin and are better for oily skin. It is advisable to start with the lowest strengths, as some preparations can cause skin irritation, redness, or burning on first use. Topical acne medications include benzoyl peroxide, salicylic acid, and antibiotics like clindamycin or erythromycin."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11wm40u",
+        "responses": [
+            {
+                "content_en": "This is eczema. Use mild facewash, good moisturizer, and sunscreen. Apply cream which I have added twice daily for 2 weeks."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11q3s37",
+        "responses": [
+            {
+                "content_en": "It is a case of urticaria, a self limiting immunological reaction to drugs, food, bites of mosquitoes, fleas, bedbugs, and other insects. The spots remain for days to weeks and can leave postinflammatory pigmentation. Fleas and mites that live on cats and dogs are often responsible. Wear protective clothing and apply insect repellents to exposed skin to prevent insect bites when outdoors. Insecticides can be used to rid the house. Seek veterinary advice regarding infested animal. Avoid triggers like certain types of food (eggs, peanuts) and some medications. Apply topical corticosteroid cream, calamine or menthol lotions and creams, and oral antihistamines are used in severe itching."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11vnkwt",
+        "responses": [
+            {
+                "content_en": "The nail is split into two parts. The proximal part is still attached to the nail bed while the distal part is free. The nail bed is also affected. I have added a lotion to be applied twice daily for 2 weeks. Keep your hands clean. Avoid any trauma to the nail."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11vi63n",
+        "responses": [
+            {
+                "content_en": "A stye is a stye that forms on the eyelid due to inflammation of the oil glands. Styes are usually self-limiting and do not persist for years. You can treat a stye with home remedies or medications."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11y0bgq",
+        "responses": [
+            {
+                "content_en": "It is a case of common wart. This noncancerous growth appears when your skin is infected with one of the many viruses of the human papillomavirus (HPV) family. If you cut or damage your skin in some way, it's easier for the virus to take hold. That's why people with chronic skin conditions, such as eczema, or who bite their nails or pick at hangnails are prone to getting warts. Warts are highly contagious and are mainly passed by direct skin contact, such as when you pick at your warts and then touch another area of your body. You can also spread them with things like towels or razors that have touched a wart on your body or on someone else's. Most warts are harmless, and you don't need to do anything unless, of course, they're painful or embarrassing. Over-the-counter gels, liquids, and pads with salicylic acid work by peeling away the dead skin cells of the wart to gradually dissolve it. For better results, soak the wart in warm water, then gently sand it with a disposable emery board before you apply the product. Be sure to use a new emery board each time. Be patient, it can take several months. If you have diabetes or a weakened immune system, you should have a doctor take a look before you treat a wart yourself. Cryotherapy, immunotherapy, laser treatment and topical cantharidin are good therapeutic options."
+            }
+        ]
+    },
+    {
+        "encounter_id": "121q1dp",
+        "responses": [
+            {
+                "content_en": "This looks healing, but if you continue to observe the same area you may have a scarring wound. You should consult your dermatologist for dermoscopic examination of the area and skin biopsy if needed."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11hpavj",
+        "responses": [
+            {
+                "content_en": "Most probably it is a case of benign growth, which can be either mole or skin tag. If you have only one mole and it is less than 6 mm in size, you need not do anything. If it is more than 6 mm, or if you have many moles, you should have a dermatologist evaluate it in person. Skin tags are more common in people with a history of obesity or who are pregnant. They are non-cancerous and do not need to be removed. However, if a skin tag is bleeding or growing rapidly, you should have it removed by a dermatologist. A skin biopsy may be recommended to exclude skin cancer."
+            }
+        ]
+    },
+    {
+        "encounter_id": "10p56li",
+        "responses": [
+            {
+                "content_en": "This is a type of eczema. It gets aggravated during the change of weather. It can recurr too. Avoid irritant exposure, excessive sun exposure, and perfume. Wear cotton clothes. Apply moisturizer. I am adding a cream for same to be applied twice daily for 3 weeks."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11fn0wk",
+        "responses": [
+            {
+                "content_en": "This is a type of pigmentation known as chalazion. It occurs when a follicle becomes blocked with oil, sweat, and dead skin cells. They can also form after an infection or irritation. They don\u00e2\u20ac\u2122t usually cause any problems and will slowly get better by themselves, or with topical treatments, such as exfoliants and moisturizers. For severe chalazions, surgical removal is an option."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11yz945",
+        "responses": [
+            {
+                "content_en": "It is a case of eczema due to dry skin (xerosis). Dryness is commonly seen in people with atopic dermatitis. People exposed to a dry environment may experience dry skin, for example, low humidity in desert climates or cool windy conditions, excessive air conditioning, direct heat from a fire or fan heater, excessive bathing, contact with soap, laundry detergents and solvents, inappropriate topical agents such as alcohol, frictional irritation from rough clothing or abrasives. Try to eliminate aggravating factors. Reduce the frequency of bathing,  use a humidifier in winter and air conditioner in summer, compare having a short shower with a prolonged soak in a hot bath, ensure good hydration by drinking plenty of water, use lukewarm water not hot water, replace standard soap with a substitute such as a synthetic detergent cleanser, water-miscible emollient, bath oil, anti-pruritic tar oil, colloidal oatmeal etc., and apply an emollient liberally and often, particularly shortly after bathing, and when itchy. The drier the skin, the thicker this should be, especially on the hands. Apply emollients frequently and avoid irritants. Use topical steroid cream twice daily for 2-4 weeks and oral antihistamines if needed."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11yhbbr",
+        "responses": [
+            {
+                "content_en": "This is acne. Acne can occur at any time, and it is not contagious. Acne is caused by excess oil, dead skin cells, and bacteria. The excess oil and humidity often occur around the chin and mouth. You can help prevent acne in these areas by washing your face twice daily, using a gentle cleanser, and using a non-comedogenic moisturizer. You can also use topical treatments like benzoyl peroxide, topical retinoids, or topical antibiotics. Oral treatments include antibiotics, retinoids, and laser therapy."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11lifa8",
+        "responses": [
+            {
+                "content_en": "This is a case of folliculitis which is inflammation of the hair follicles. It can be caused by infection, obstruction, or irritation. The treatment of choice is to drain the follicles, either with a needle or with a small blade, and then clean the area to prevent infection. Antibiotics may be given if secondary infection (folliculitis scalpia) is present."
+            }
+        ]
+    },
+    {
+        "encounter_id": "126wr5i",
+        "responses": [
+            {
+                "content_en": "This is a case of necrotizing cutaneous wound (NWCW), a severe wound infection caused by severe trauma. The wound has retracted significantly and is now only the necrotic skin (blocked blood vessels and tissue) remaining. This requires immediate surgical intervention to avoid tissue damage and possible death. The wound is now in the healing phase, so it is important to keep the area clean and dry. Apply the mupiator ointment twice daily for 2 weeks and the powder once daily for 2 months. If still painful after that, see a doctor."
+            }
+        ]
+    },
+    {
+        "encounter_id": "121vwdj",
+        "responses": [
+            {
+                "content_en": "This looks like a mole only. You don't have to do anything. It will fade away by itself."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11gqgnw",
+        "responses": [
+            {
+                "content_en": "This is eczema. It gets aggravated in cold weather. I am adding a cream. Apply the cream twice daily for 2 weeks. Take an antihistamine on an SOS basis. Moisturize and apply sunscreen."
+            }
+        ]
+    },
+    {
+        "encounter_id": "125d5do",
+        "responses": [
+            {
+                "content_en": "Most probably it is a case of Pityriasis versicolor, a common yeast infection of the skin, in which flaky discolored patches appear on the chest and back. Pityriasis versicolor is more common in hot, humid climates than in cool, dry climates. It often affects people who perspire heavily. It may clear in the winter months and recur each summer. Although it is not considered infectious in the conventional sense, pityriasis versicolor sometimes affects more than one member of a family. Mild pityriasis versicolor is treated with topical antifungal agents. Selenium sulfide shampoo, Topical azole cream/shampoo (econazole, ketoconazole), Terbinafine gel. The medicine should be applied widely to the skin from the jawline down and left on the skin for 5-15 minutes before rinsing off in the shower. This should be done daily for one week then weekly for one month. Oral antifungal agents, itraconazole and fluconazole, are used to treat pityriasis versicolor when extensive or if topical agents have failed. Vigorous exercise an hour after taking the medication may help sweat it onto the skin surface, where it can effectively eradicate the yeast. Bathing should be avoided for a few hours. A few days' treatment will clear many cases of pityriasis versicolor, but it may persist permanently in some people."
+            }
+        ]
+    },
+    {
+        "encounter_id": "1206zdd",
+        "responses": [
+            {
+                "content_en": "This is a case of nasal eczema or allergic nasal dermatitis. It is a reaction to something in the nose that is allergic or irritant in nature. It can be caused by a new product, a change in product, or a previously present problem. Examples include a new perfume, a new lotion, or a new laundry detergent. It can also be caused by an allergy or allergy-like condition such as eczema, hay fever, or asthma. To help your child, stop using the things that caused it and see if the reaction gets better with the new item. If it doesn\u00e2\u20ac\u2122t, then the cause is probably allergic. If it does get better, then it is probably an allergy and will require treatment for the allergy. The treatment for allergic nasal dermatitis includes stopping the cause, whether it is a new product, a change in product, or a previously present problem, and using the treatments below for a few weeks while the rash is getting better. The treatments include: washing the area with soap and water, using a topical steroid cream twice daily for 2 weeks, using a topical hydrocortisone cream twice daily for 4 weeks, and using a topical azelaic acid cream twice daily for 6 weeks."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11xr0nn",
+        "responses": [
+            {
+                "content_en": "This is most likely a case of exercise-induced dermatitis. This is a common condition that occurs when the skin reacts to some type of irritant, such as sweat, dirt, or fabric softener. The best way to prevent exercise-induced dermatitis is to keep the skin moisturized. Use gentle or sensitive skin moisturizers throughout the day after a bath or shower. Apply topical medications to the skin like topical hydrocortisone cream. Take oral medications like anti inflammatory medicines, antihistamines, or corticosteroids to reduce itchiness and swelling. Choose clothing and accessories made from natural or hypoallergenic materials. Avoid irritants. Wash workout clothes and equipment after each use."
+            }
+        ]
+    },
+    {
+        "encounter_id": "rl6joi",
+        "responses": [
+            {
+                "content_en": "This is most likely eczema. The skin is dry and itchy. I am adding a cream for same to be applied twice daily for 2 weeks. You can take an antihistamine on an SOS basis. Apply moisturiser and sunscreen."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11mk3bx",
+        "responses": [
+            {
+                "content_en": "I need to know whether you've had a fever, if you've applied something to it, if it's painful, and when it first appeared. It looks like a cyst and needs to be excised and sent for examination."
+            }
+        ]
+    },
+    {
+        "encounter_id": "12477ug",
+        "responses": [
+            {
+                "content_en": "This looks like it could be a small scar or post-inflammatory hyperpigmentation. It should fade with time, but you could try using a topical steroid and a moisturizer with SPF to help it fade faster."
+            }
+        ]
+    },
+    {
+        "encounter_id": "iwqx1p",
+        "responses": [
+            {
+                "content_en": "This is a case of trauma dermatitis due to trauma to the finger. The best treatment for trauma dermatitis is to stop the trauma. If possible, stop the bleeding first. If the splinter is in the same spot on the finger as the blood came from, leave it and continue to observe the finger for any changes. If the area is bleeding heavily or you are worried about a deeper injury, seek medical attention. If the area is not bleeding heavily and you are not worried about a deeper injury, you can remove the splinter and apply topical antibiotic to prevent infection."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11r6gnz",
+        "responses": [
+            {
+                "content_en": "This is a case of folliculitis, which is inflammation of the hair follicles. It can be caused by folliculitis of the hair follicles, folliculitis due to infection, or even just irritation from something. The treatment for folliculitis depends on the cause. If it is due to a bacterial infection, you will need to be prescribed antibiotics. If it is due to a fungal infection, you will need to be prescribed antifungal medication. If it is due to irritation, you may need to be prescribed a topical steroid to reduce inflammation. If it is due to a hair follicle infection, you may need to be prescribed an antibiotic to kill the bacteria causing the infection. If it is due to a fungal infection, you may need to be prescribed an antifungal medication. If it is due to irritation or a hair follicle infection, you may need to be on oral antibiotics for a week, topical steroids for a few weeks, or an oral antifungal medication for several months. If it is due to a fungal infection, you may need to be on oral antibiotics for a week, a topical steroid every day for a few weeks, or an oral antifungal medication for several months. If it is due to irritation, you may need to be on oral antibiotics for a week, a topical steroid every day for a few weeks, or an oral antihistamine for several months. If it is due to a hair follicle infection, you may need to be on oral antibiotics for a week, a topical steroid every day for a few weeks, or an oral antifungal medication for several months. If it is due to a fungal infection, you may need to be on oral antibiotics for a week, a topical steroid every day for a few weeks, or an oral antifungal medication for several months. If it is due to irritation, you may need to be on oral antibiotics for a week, a topical steroid every day for a few weeks, or an oral antihistamine for several months."
+            }
+        ]
+    },
+    {
+        "encounter_id": "1228q0o",
+        "responses": [
+            {
+                "content_en": "I need a few answers- is it painful? Is it growing or changing in size or shape? Is it bleeding or pussy? I have added a cream to be applied twice daily for 2 weeks. Keep it clean."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11mcw8t",
+        "responses": [
+            {
+                "content_en": "Most probably it is a case of telangiectasia, a non-cancerous condition that causes blood vessels in the skin to widen. This happens when the surrounding blood vessels expand due to increased blood pressure. Telangiectasia is common in people with fair skin and is often seen in people exposed to sun for long periods. It does not cause any damage to the skin and does not cause blood disorders. There is no cure for telangiectasia, but it can be treated. Some treatments that can help reduce the appearance of telangiectasia include laser therapy, topical retinoids, and laser therapy, electrocautery, and topical steroids."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11teo5z",
+        "responses": [
+            {
+                "content_en": "This is eczema. Apply moisturizer. I am adding a cream for it to be applied twice daily for 2 weeks. You can take antihistamine on an SOS basis."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11hvit8",
+        "responses": [
+            {
+                "content_en": "It is a case of Cherry angioma, a benign vascular skin lesion. An angioma is due to proliferating endothelial cells; these are the cells that line the inside of a blood vessel. It is usually diagnosed clinically and investigation is not necessary for the majority of lesions. Cherry angiomas are harmless, so do not have to be treated. If desired for cosmetic reasons, Cryotherapy, Electrosurgery or Vascular laser can be used."
+            }
+        ]
+    },
+    {
+        "encounter_id": "122aief",
+        "responses": [
+            {
+                "content_en": "This is a type of post-inflammatory hyperpigmentation. It occurs due to inflammation in the skin. The best way to treat post-inflammatory hyperpigmentation is to avoid it happening in the first place. This can be achieved by using sunscreen, avoiding injuries, and managing chronic skin conditions like eczema."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11orpcc",
+        "responses": [
+            {
+                "content_en": "This is fungal infection. I have added a cream to be applied twice daily for 2 weeks. You can take antihistamine on an SOS basis. Keep your hands dry."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11je3z9",
+        "responses": [
+            {
+                "content_en": "I need to know whether these spots are itchy, painful, or just there for the sake of it. As of now, they don't look like melanoma and I need you to keep observing them. If they're still there and not changing then you're good to go. If they're changing or growing then you need to see your dermatologist and possibly have a biopsy."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11xe7kd",
+        "responses": [
+            {
+                "content_en": "This is a case of eczema due to dry skin (xerosis). Dryness is commonly seen in people with atopic dermatitis. People exposed to a dry environment may experience dry skin, for example, low humidity in desert climates or cool windy conditions, excessive air conditioning, direct heat from a fire or fan heater, excessive bathing, contact with soap, laundry detergents and solvents, inappropriate topical agents such as alcohol, frictional irritation from rough clothing or abrasives. Try to eliminate aggravating factors. Reduce the frequency of bathing,  use a humidifier in winter and air conditioner in summer, compare having a short shower with a prolonged soak in a hot bath, ensure good hydration by drinking plenty of water, use lukewarm water not hot water, replace standard soap with a substitute such as a synthetic detergent cleanser, water-miscible emollient, bath oil, anti-pruritic tar oil, colloidal oatmeal etc., and apply an emollient liberally and often, particularly shortly after bathing, and when itchy. The drier the skin, the thicker this should be, especially on the hands. Apply emollients frequently and avoid irritants. Use topical steroid cream twice daily for 2-4 weeks and oral antihistamines if needed."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11hfupz",
+        "responses": [
+            {
+                "content_en": "This looks like it could be a contact dermatitis of the skin. I would recommend you stop using the product that is causing the rash and consider using a hypoallergenic alternative."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11uerm9",
+        "responses": [
+            {
+                "content_en": "I need to know whether there is any history of trauma or any irritant application. It looks like a mole. It does not look like melanoma at all. You just need to keep observing it."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11jwq60",
+        "responses": [
+            {
+                "content_en": "This looks like it could be a lip licker's dermatitis. You should start with a topical steroid and regular moisturization. If it doesn't improve or if it spreads, you should consider seeing your doctor for an in-person evaluation."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11prwnu",
+        "responses": [
+            {
+                "content_en": "This is a viral infection. The virus has entered through a small cut or abrasion. Wash it with soap and water. Apply moisturizer. Apply the cream which I have added twice daily for 2 weeks. Take painkiller on an as needed basis."
+            }
+        ]
+    },
+    {
+        "encounter_id": "122by2b",
+        "responses": [
+            {
+                "content_en": "This is alopecia areata. It is a type of autoimmune disorder. It causes hair loss in patches. The spots remain even after the hair loss has occurred. The spots are also called telogen effluvium. It is a non-communicable condition. There is no known cure for alopecia areata. However, treatments are available to help manage the symptoms. These include:\n- Hair transplant: This is a procedure where hair is harvested from one area of the body and transplanted to the area of the scalp where hair loss has occurred."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11ph8rr",
+        "responses": [
+            {
+                "content_en": "Telangiectasia is a benign vascular skin lesion that results in dilated blood vessels. Telangiectasia is a common feature of aging and is often described as the \"elephant's feet\" of the skin. It is also called the \"broken capillaries\" of the skin. Telangiectasia is not a skin cancer; however, it may be a sign of an underlying medical condition that affects blood flow to the skin. For example, hypertension, diabetes, and pregnancy may cause increased blood flow to the skin. Dermatologists usually do not treat telangiectasia unless they are noticeable. However, some people find that laser therapy is useful for treating telangiectasia and improving the appearance of the skin. Laser therapy can be done in the dermatology office or in a medical spa. The dermatologist can recommend a particular type of laser based on the individual's skin type and the appearance of the telangiectasia. Some lasers are better than others for treating telangiectasia. The most effective laser for treating telangiectasia is the pulsed light laser. This laser delivers a short burst of light that is specifically designed to target blood vessels. The light damages the blood vessels without harming the surrounding skin. This makes the blood vessels shrink and fade away. The procedure is painless and can be done in the dermatology office. Many people find that laser therapy is better than topical creams and serums for treating telangiectasia."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11x2q0q",
+        "responses": [
+            {
+                "content_en": "This is eczema. It is very common in children. Use mild soap and moisturizer at regular intervals. I am adding a cream for faster healing to be applied twice daily for 2 weeks. Always apply sunscreen."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11rxhph",
+        "responses": [
+            {
+                "content_en": "This looks like heat rash. I am adding a cream for same to be applied twice daily for 2 weeks. You can take antihistamine on an SOS basis. Keep the area clean. Wear loose cotton clothes. Avoid friction from clothes."
+            }
+        ]
+    },
+    {
+        "encounter_id": "120ky3a",
+        "responses": [
+            {
+                "content_en": "This is a case of fungal infection of the feet. The feet have become very sweaty, which is a perfect environment for the fungus to grow. You should change your socks and shoes regularly and use antifungal spray once daily for 2 weeks. If it is persistent, you can consult your doctor for prescribing oral antifungal."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11ezqjf",
+        "responses": [
+            {
+                "content_en": "It is a case of nevus or mole. If it is not growing, changing, or bleeding then it is not a problem and you can leave it. Otherwise, you can consider removing it for cosmetic or health reasons."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11yvv7d",
+        "responses": [
+            {
+                "content_en": "This is a case of longitudinal dermatitis due to excessive handwashing. I am adding a cream for same to be applied twice daily for 2 weeks. Avoid handwashing."
+            }
+        ]
+    },
+    {
+        "encounter_id": "121777v",
+        "responses": [
+            {
+                "content_en": "This looks like it could be eczema or contact dermatitis. I would recommend a topical steroid and regular moisturization."
+            }
+        ]
+    },
+    {
+        "encounter_id": "1248w9o",
+        "responses": [
+            {
+                "content_en": "It is a case of Pityriasis versicolor, a common yeast infection of the skin. Pityriasis versicolor is more common in hot, humid climates than in cool, dry climates. It often affects people who perspire heavily. It may clear in the winter months and recur each summer. Although it is not considered infectious in the conventional sense, pityriasis versicolor sometimes affects more than one member of a family. It is often considered a mild dermatitis and can be treated with topical antifungal agents. Topical antifungal agents available over the counter include clotrimazole and selenium sulfide shampoo. Topical antifungal agents available by prescription include econazole and ketoconazole. Oral antifungal agents include fluconazole and itraconazole."
+            }
+        ]
+    },
+    {
+        "encounter_id": "11tjsat",
+        "responses": [
+            {
+                "content_en": "It is a case of eczema due to dry skin (xerosis). Dryness is commonly seen in people with atopic dermatitis. People exposed to a dry environment may experience dry skin, for example low humidity in desert climates or cool windy conditions, excessive air conditioning, direct heat from a fire or fan heater, excessive bathing, contact with soap, laundry detergents and solvents, inappropriate topical agents such as alcohol, frictional irritation from rough clothing or abrasives. Try to eliminate aggravating factors. Reduce the frequency of bathing,  use a humidifier in winter and air conditioner in summer, compare having a short shower with a prolonged soak in a hot bath, ensure good hydration by drinking plenty of water, use lukewarm water not hot water, replace standard soap with a substitute such as a synthetic detergent cleanser, water-miscible emollient, bath oil, anti-pruritic tar oil, colloidal oatmeal etc., and apply an emollient liberally and often, particularly shortly after bathing, and when itchy. The drier the skin, the thicker this should be, especially on the hands. Apply emollients frequently and avoid irritants. Use topical steroid cream twice daily for 2-4 weeks and oral antihistamines if needed."
+            }
+        ]
+    }
+]
