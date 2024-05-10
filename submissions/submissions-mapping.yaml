@@ -1,0 +1,13 @@
+validation:
+  validation-1: tiny-llava-v1-hf\predictions\valid\2024-04-25\prediction.json
+  validation-2: moondream2\predictions\direct-prompting\valid\2024-05-02\prediction.json
+
+test:
+  test-1: moondream2\predictions\direct-prompting\test\2024-05-09-prompt-1\prediction.json
+  test-2: moondream2\predictions\model_3\test\2024-05-09\prediction.json
+  test-3: moondream2\predictions\model_4\test\2024-05-09\prediction.json
+  test-4: moondream2\predictions\model_5\test\2024-05-09\prediction.json
+  test-5: tiny-llava-v1-hf\predictions\test\2024-05-09-prompt-1\prediction.json
+  test-6: moondream2\predictions\model_1\test\2024-05-10\prediction.json
+  test-7: tiny-llava-v1-hf\predictions\test\2024-05-10-prompt-2\prediction.json
+  test-8: moondream2\predictions\direct-prompting\test\2024-05-10-prompt-2\prediction.json

@@ -1,0 +1,12 @@
+{
+    "RUN_ID": "2",
+    "FINE_TUNED": true,
+    "MODELS_EXACT": "moondream2",
+    "GITHUB_REPO_URL": "https://github.com/paatrycjaa/imageclef2024-medical",
+    "GITHUB_REPO_SHARED": false,
+    "SUBMISSION_COMMENT": "Prompting on fine-tuned moondream2 with data augmentation - 5 epochs - First prompt",
+    "LLM_MODELFAMILY_USED": "not_applicable",
+    "VISION_MODELFAMILY_USED": "not_applicable",
+    "METHOD_OVERALL_DESCRIPTION": "Prompting  on fine-tuned moondream2 (revision=\"2024-04-02\" ). Images augmentation during training. Fine-tuned for 5 epochs. First prompt used.",
+    "VISIONLANGUAGE_MODELFAMILY_USED": "other"
+}

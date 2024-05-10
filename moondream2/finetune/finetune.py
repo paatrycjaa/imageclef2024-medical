@@ -195,4 +195,3 @@ if __name__ == "__main__" :
     finetune = Finetune(train_dataset=MAGICDataset('train'), valid_dataset=MAGICDataset('valid'), params= parmas)
     finetune.run()
 
-

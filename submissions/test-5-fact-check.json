@@ -1,0 +1,12 @@
+{
+    "RUN_ID": "5",
+    "FINE_TUNED": false,
+    "MODELS_EXACT": "tiny-llava-v1-hf",
+    "GITHUB_REPO_URL": "https://github.com/paatrycjaa/imageclef2024-medical",
+    "GITHUB_REPO_SHARED": false,
+    "SUBMISSION_COMMENT": "Direct prompting on tiny-llava-v1-hf - First prompt",
+    "LLM_MODELFAMILY_USED": "not_applicable",
+    "VISION_MODELFAMILY_USED": "not_applicable",
+    "METHOD_OVERALL_DESCRIPTION": "Direct prompting on tiny-llava-v1-hf (image_processor: CLIPImageProcessor, tokenizer: LlamaTokenizerFast) with first prompt.",
+    "VISIONLANGUAGE_MODELFAMILY_USED": "llava"
+}
