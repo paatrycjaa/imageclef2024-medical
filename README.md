@@ -1,5 +1,5 @@
 # imageclef2024-medical
-Respository of the VisionQuaries Team on ImageCLEF Lab at CLEF 2024
+Repository with the VisionQAries Team's solution for the MEDIQA-MAGIC Task at ImageCLEF 2024.
 
 VisionQAries at MEDIQA-MAGIC 2024: Small Vision Language Models for Dermatological Diagnosis
 
